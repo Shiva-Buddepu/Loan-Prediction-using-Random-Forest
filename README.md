@@ -63,7 +63,8 @@ Included:
 - Splitting into train/test sets  
 
 ### 6. Model Building – Random Forest
-Implemented the Random Forest Classifier:
-```python
-from sklearn.ensemble import RandomForestClassifier
-model = RandomForestClassifier()
+
+- Evaluated model using Random Forest
+- Accuracy
+- Confusion Matrix
+- Classification Report
